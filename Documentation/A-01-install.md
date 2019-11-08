@@ -216,13 +216,13 @@ $ bin/console eavmanager:create-user -a -p admin admin@my-company.org
 You're good to go ! Consult these documentations to help you build your application:
 
 - Building and configuring and extending the model:
-    https://github.com/VincentChalnot/SidusEAVModelBundle/blob/master/README.md
+    https://github.com/VincentChalnot/SidusEAVModelBundle/blob/v1.3-dev/README.md
 
 - Configuring admins:
-    https://github.com/VincentChalnot/SidusAdminBundle/blob/master/README.md
+    https://github.com/VincentChalnot/SidusAdminBundle/blob/v2.0-dev/README.md
 
 - Configuring datagrids:
-    https://github.com/VincentChalnot/SidusDataGridBundle/blob/master/README.md
+    https://github.com/VincentChalnot/SidusDataGridBundle/blob/v2.0-dev/README.md
 
 - Managing assets:
-    https://github.com/VincentChalnot/SidusFileUploadBundle/blob/master/README.md
+    https://github.com/VincentChalnot/SidusFileUploadBundle/blob/v1.2-dev/README.md
